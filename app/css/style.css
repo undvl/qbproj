@@ -1,0 +1,15 @@
+div.panel .panel-heading a {
+    display: block;
+}
+
+div.paddedRow {
+    padding-bottom: 10px;
+}
+
+.margin-left-30px {
+    margin-left: 30px;
+}
+
+.authorComment {
+    background-color: #cfc;
+}
